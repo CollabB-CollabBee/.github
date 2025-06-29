@@ -25,7 +25,6 @@ This project is coming into being.  It doesn't have code yet, the skeleton is in
 To receive the small foundational text and background thoughts, sign up via one of the landing pages.
 
 - [Makeacrowd landing page](https://makeacrowd.com)
-- [Collab Landing](https://collabb.makeacrowd.com)
 
 ### Background
 CollabB or CollabBee can be both used, it is a thought and real experiment that tests out collaboration under different rules.

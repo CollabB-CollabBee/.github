@@ -30,7 +30,7 @@ To receive the small foundational text and background thoughts, sign up via one 
 CollabB or CollabBee can be both used, it is a thought and real experiment that tests out collaboration under different rules.
 Most ideas, that are listed under CollabB have a hollistic approach to mainstream challenges or narratives. CollabB is part of Makea a small startup with a ethics first approach. 
 The idea started off as a little joke, and a thirst for real experiments and research that doesn't manipulate the outcome.
-Although we bias towards a better society and trustbuilding relationships, the project is not political. Does not favor any opinion, except that of
+Although we are biased towards a better society and trustbuilding relationships, the project is not political. Does not favor any opinion, except that of
 character and personality type. We create a world according to our choices. Creativity thrives under constraints.
 
 The project is long term. The license will be determined in a later stage.
